@@ -20,14 +20,12 @@
   --font-body: var(--font-body);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-    --saffron: #ff8a3c;
-    --maroon: #a82d2d;
-    --gold: #e8b844;
-  }
+.dark {
+  --background: #0a0a0a;
+  --foreground: #ededed;
+  --saffron: #ff8a3c;
+  --maroon: #a82d2d;
+  --gold: #e8b844;
 }
 
 html {
