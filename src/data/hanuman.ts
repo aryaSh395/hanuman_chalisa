@@ -1,5 +1,6 @@
 export const chalisa = [
   { verse: "Shri Guru Charan Saroj Raj, Nij Man Mukur Sudhari", meaning: "With the dust of the Guru’s feet, I cleanse my mind’s mirror." },
+  { verse: "Barnau Raghuvar Bimal Jasu, Jo Dayaku Phalachari", meaning: "I sing of the pure glory of Raghuvar, who is the giver of divine fruits." },
   { verse: "Budhiheen Tanu Janike, Sumirau Pavan Kumar", meaning: "Knowing my intellect is weak, I remember the Wind’s son." },
   { verse: "Bal Buddhi Vidya Dehu Mohin, Harahu Kalesh Vikar", meaning: "Grant strength, wisdom, knowledge; remove afflictions and defects." },
 
