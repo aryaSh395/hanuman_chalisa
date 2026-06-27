@@ -24,7 +24,14 @@
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
+    --saffron: #ff8a3c;
+    --maroon: #a82d2d;
+    --gold: #e8b844;
   }
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 body {

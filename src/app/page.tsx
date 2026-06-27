@@ -5,6 +5,7 @@ import Chalisa from "@/components/Chalisa";
 import Timeline from "@/components/Timeline";
 import Gallery from "@/components/Gallery";
 import Footer from "@/components/Footer";
+import ScrollToTop from "@/components/ScrollToTop";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <Timeline />
       <Gallery />
       <Footer />
+      <ScrollToTop />
     </div>
   );
 }
